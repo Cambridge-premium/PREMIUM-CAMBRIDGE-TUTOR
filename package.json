@@ -1,0 +1,13 @@
+{
+  "name": "cambridge-ai-study-tutor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI tutoring starter for Cambridge O Level, AS Level and A Level students",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
